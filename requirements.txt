@@ -1,0 +1,4 @@
+regex
+pygame
+numpy
+argparse
