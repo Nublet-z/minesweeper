@@ -40,3 +40,7 @@ $ python main.py --game_level 'medium'
 # Using custom settings
 $ python main.py --board_height 16 --board_width 10 --mines_number 20
 ```
+
+## Game Control
+- Mouse Left Click: Reveal a cell.
+- Mouse right click: Place a flag to suspect a cell, right click again to remove it.
